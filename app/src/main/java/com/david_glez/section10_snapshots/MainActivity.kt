@@ -12,11 +12,11 @@ class MainActivity : AppCompatActivity() {
     private lateinit var mActiveFragment: Fragment
     private lateinit var mFragmentManager: FragmentManager
 
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         mainBinding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(mainBinding.root)
-
         setUpBottom()
     }
 

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683217685041",
+    "project_id": "snapshots-fa54c",
+    "storage_bucket": "snapshots-fa54c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683217685041:android:b0cd1d3fce9f574d79e310",
+        "android_client_info": {
+          "package_name": "com.david_glez.section10_snapshots"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683217685041-tked1j5bvuhbioh4lsvu6svj4rts5a6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB87KKKVszWrhH76BgbyarpsFrdsVxnI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683217685041-tked1j5bvuhbioh4lsvu6svj4rts5a6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
